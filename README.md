@@ -4,7 +4,7 @@ This is my solution to the Kaggle competition [Predict Future Sales](https://www
 
 ## Overview
 - Problem: Time series forecasting of monthly sales per product and shop.
-- Approach: Feature engineering with lag features and rolling means, trained with XGBoost and RandomForest.
+- Approach: Feature engineering with lag features and rolling means, trained with XGBoost.
 
 ## Tech Stack
 - Python, Pandas, NumPy, scikit-learn, XGBoost, Matplotlib
